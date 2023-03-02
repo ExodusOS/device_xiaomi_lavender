@@ -17,9 +17,6 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 # ExodusOS Properties
 TARGET_BOOT_ANIMATION_RES := 1080
-TARGET_INCLUDE_LIVE_WALLPAPERS := false
-TARGET_USES_AOSP_RECOVERY := true
-EXODUS_MAINTAINER := melles1991-&-Sensei-Developer
 
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := lavender
